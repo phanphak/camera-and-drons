@@ -3,10 +3,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+    
 }
 
 /* is mobile phone */
-
+body{
+    overflow-x: hidden;
+}
 
 
 .menu-bar .menu {
