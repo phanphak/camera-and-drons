@@ -8,8 +8,11 @@
 }
 
 /* is mobile phone */
-body{
-    overflow-x: hidden;
+
+body {
+  overflow-x: hidden;
+  overscroll-behavior: none;
+  touch-action: none;
 }
 
 
