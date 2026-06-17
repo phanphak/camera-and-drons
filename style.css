@@ -8,12 +8,14 @@
 }
 
 /* is mobile phone */
-
-body {
-    max-width: 100%;
-  overflow-x: hidden;
-  
-  
+@media screen and (max-width:640px) {
+    body {
+        max-width: 100%;
+      overflow-x: hidden;
+      
+      
+    }
+    
 }
 
 
